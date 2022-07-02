@@ -36,7 +36,7 @@ Get pyrogram (p)  `SESSION` from here:
 ### ⚔ Self-hosting (For Devs) 
 ```sh
 # Install Git First (apt-get install git)
-$ git clone https://github.com/W2HGalaxy-OP/W2HMUSIC1
+$ git clone https://github.com/jpriyanshu772/W2HMUSIC1
 $ cd W2HMUSIC1
 # Upgrade sources
 # Install All Requirements 
